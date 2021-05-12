@@ -360,9 +360,9 @@ function calcular() {
 // LIMPAR
 
 function limpar() {
-    document.getElementById("preco").value = "";
-    document.getElementById("custo").value = "";
-    document.getElementById("icms").value = "";
+    document.getElementById("campo3").value = "";
+    document.getElementById("campo2").value = "";
+    document.getElementById("campo1").value = "";
     document.getElementById("tela").innerHTML = "";
     document.getElementById("li1").innerHTML = 0.00;
     document.getElementById("li2").innerHTML = 0.00;
