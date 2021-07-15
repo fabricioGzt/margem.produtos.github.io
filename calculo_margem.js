@@ -364,66 +364,66 @@ function limpar() {
     document.getElementById("campo2").value = "";
     document.getElementById("campo1").value = "";
     document.getElementById("tela").innerHTML = "";
-    document.getElementById("li1").innerHTML = 0.00;
-    document.getElementById("li2").innerHTML = 0.00;
-    document.getElementById("li3").innerHTML = 0.00;
-    document.getElementById("li4").innerHTML = 0.00;
-    document.getElementById("li5").innerHTML = 0.00;
-    document.getElementById("li6").innerHTML = 0.00;
-    document.getElementById("li7").innerHTML = 0.00;
-    document.getElementById("li8").innerHTML = 0, 00;
-    document.getElementById("li9").innerHTML = 0, 00;
-    document.getElementById("li10").innerHTML = 0, 00;
-    document.getElementById("li11").innerHTML = 0, 00;
-    document.getElementById("li12").innerHTML = 0, 00;
-    document.getElementById("li13").innerHTML = 0, 00;
-    document.getElementById("li14").innerHTML = 0, 00;
-    document.getElementById("li15").innerHTML = 0, 00;
-    document.getElementById("li16").innerHTML = 0, 00;
-    document.getElementById("li17").innerHTML = 0, 00;
-    document.getElementById("li18").innerHTML = 0, 00;
-    document.getElementById("li19").innerHTML = 0, 00;
-    document.getElementById("li20").innerHTML = 0, 00;
-    document.getElementById("li21").innerHTML = 0, 00;
-    document.getElementById("li22").innerHTML = 0, 00;
-    document.getElementById("li23").innerHTML = 0, 00;
-    document.getElementById("li24").innerHTML = 0, 00;
-    document.getElementById("li25").innerHTML = 0, 00;
-    document.getElementById("li26").innerHTML = 0, 00;
-    document.getElementById("li27").innerHTML = 0, 00;
-    document.getElementById("li28").innerHTML = 0, 00;
-    document.getElementById("li29").innerHTML = 0, 00;
-    document.getElementById("li30").innerHTML = 0, 00;
-    document.getElementById("li31").innerHTML = 0, 00;
-    document.getElementById("li32").innerHTML = 0, 00;
-    document.getElementById("li33").innerHTML = 0, 00;
-    document.getElementById("li34").innerHTML = 0, 00;
-    document.getElementById("li35").innerHTML = 0, 00;
-    document.getElementById("li36").innerHTML = 0, 00;
-    document.getElementById("li37").innerHTML = 0, 00;
-    document.getElementById("li38").innerHTML = 0, 00;
-    document.getElementById("li39").innerHTML = 0, 00;
-    document.getElementById("li40").innerHTML = 0, 00;
-    document.getElementById("li41").innerHTML = 0, 00;
-    document.getElementById("li42").innerHTML = 0, 00;
-    document.getElementById("li43").innerHTML = 0, 00;
-    document.getElementById("li44").innerHTML = 0, 00;
-    document.getElementById("li45").innerHTML = 0, 00;
-    document.getElementById("li46").innerHTML = 0, 00;
-    document.getElementById("li47").innerHTML = 0, 00;
-    document.getElementById("li48").innerHTML = 0, 00;
-    document.getElementById("li49").innerHTML = 0, 00;
-    document.getElementById("li50").innerHTML = 0, 00;
-    document.getElementById("li51").innerHTML = 0, 00;
-    document.getElementById("li52").innerHTML = 0, 00;
-    document.getElementById("li53").innerHTML = 0, 00;
-    document.getElementById("li54").innerHTML = 0, 00;
-    document.getElementById("li55").innerHTML = 0, 00;
-    document.getElementById("li56").innerHTML = 0, 00;
-    document.getElementById("li57").innerHTML = 0, 00;
-    document.getElementById("li58").innerHTML = 0, 00;
-    document.getElementById("li59").innerHTML = 0, 00;
-    document.getElementById("li60").innerHTML = 0, 00;
+    document.getElementById("li1").innerHTML = '0.00';
+    document.getElementById("li2").innerHTML = '0.00';
+    document.getElementById("li3").innerHTML = '0.00';
+    document.getElementById("li4").innerHTML = '0.00';
+    document.getElementById("li5").innerHTML = '0.00';
+    document.getElementById("li6").innerHTML = '0.00';
+    document.getElementById("li7").innerHTML = '0.00';
+    document.getElementById("li8").innerHTML = '0.00';
+    document.getElementById("li9").innerHTML = '0.00';
+    document.getElementById("li10").innerHTML = '0.00';
+    document.getElementById("li11").innerHTML = '0.00';
+    document.getElementById("li12").innerHTML = '0.00';
+    document.getElementById("li13").innerHTML = '0.00';
+    document.getElementById("li14").innerHTML = '0.00';
+    document.getElementById("li15").innerHTML = '0.00';
+    document.getElementById("li16").innerHTML = '0.00';
+    document.getElementById("li17").innerHTML = '0.00';
+    document.getElementById("li18").innerHTML = '0.00';
+    document.getElementById("li19").innerHTML = '0.00';
+    document.getElementById("li20").innerHTML = '0.00';
+    document.getElementById("li21").innerHTML = '0.00';
+    document.getElementById("li22").innerHTML = '0.00';
+    document.getElementById("li23").innerHTML = '0.00';
+    document.getElementById("li24").innerHTML = '0.00';
+    document.getElementById("li25").innerHTML = '0.00';
+    document.getElementById("li26").innerHTML = '0.00';
+    document.getElementById("li27").innerHTML = '0.00';
+    document.getElementById("li28").innerHTML = '0.00';
+    document.getElementById("li29").innerHTML = '0.00';
+    document.getElementById("li30").innerHTML = '0.00';
+    document.getElementById("li31").innerHTML = '0.00';
+    document.getElementById("li32").innerHTML = '0.00';
+    document.getElementById("li33").innerHTML = '0.00';
+    document.getElementById("li34").innerHTML = '0.00';
+    document.getElementById("li35").innerHTML = '0.00';
+    document.getElementById("li36").innerHTML = '0.00';
+    document.getElementById("li37").innerHTML = '0.00';
+    document.getElementById("li38").innerHTML = '0.00';
+    document.getElementById("li39").innerHTML = '0.00';
+    document.getElementById("li40").innerHTML = '0.00';
+    document.getElementById("li41").innerHTML = '0.00';
+    document.getElementById("li42").innerHTML = '0.00';
+    document.getElementById("li43").innerHTML = '0.00';
+    document.getElementById("li44").innerHTML = '0.00';
+    document.getElementById("li45").innerHTML = '0.00';
+    document.getElementById("li46").innerHTML = '0.00';
+    document.getElementById("li47").innerHTML = '0.00';
+    document.getElementById("li48").innerHTML = '0.00';
+    document.getElementById("li49").innerHTML = '0.00';
+    document.getElementById("li50").innerHTML = '0.00';
+    document.getElementById("li51").innerHTML = '0.00';
+    document.getElementById("li52").innerHTML = '0.00';
+    document.getElementById("li53").innerHTML = '0.00';
+    document.getElementById("li54").innerHTML = '0.00';
+    document.getElementById("li55").innerHTML = '0.00';
+    document.getElementById("li56").innerHTML = '0.00';
+    document.getElementById("li57").innerHTML = '0.00';
+    document.getElementById("li58").innerHTML = '0.00';
+    document.getElementById("li59").innerHTML = '0.00';
+    document.getElementById("li60").innerHTML = '0.00';
     document.getElementById("li60").style.color = "";
     document.getElementById("li60").style.backgroundColor = "#ffffff";
     document.getElementById("li56").style.color = "";
@@ -468,6 +468,358 @@ $(document).ready(function () {
                 proximo.focus();
             }
         }
-       
+
     })
 })
+
+function sugerir() {
+    // icms 4%
+    if (document.getElementById("campo1").value == '') {
+        alert("Preencher o campo ICMS")
+        AbortController
+    } else {
+        if (document.getElementById("campo1").value <= 11) {
+            alert("Sugestão de preço disponivel apenas para ICMS 12%");
+            AbortController;
+        } else if (document.getElementById("campo1").value >= 13) {
+            alert("Sugestão de preço disponivel apenas para ICMS 12%");
+            AbortController;
+        } else
+            // icms 12%
+            if (document.getElementById("campo1").value = 12) {
+                var a = document.getElementById("campo2").value;
+                if (a == "" || a < 0) {
+                    alert("Campo Custo não pode ser menor ou igual a 0(zero)");
+                    AbortController;
+                } else if (a >= 0 && a < 5) {
+                    var b = a * 278 / 100;
+                    document.getElementById("campo3").value = b.toFixed(2);
+                } else if (a >= 5 && a < 10) {
+                    var b = a * 275 / 100;
+                    document.getElementById("campo3").value = b.toFixed(2);
+                } else if (a < 15 && a >= 10) {
+                    var b = a * 272 / 100;
+                    document.getElementById("campo3").value = b.toFixed(2);
+                } else if (a >= 15 && a < 20) {
+                    var b = a * 270 / 100;
+                    document.getElementById("campo3").value = b.toFixed(2);
+                } else
+                    if (a < 25 && a >= 20) {
+                        var b = a * 271 / 100;
+                        document.getElementById("campo3").value = b.toFixed(2);
+                    } else if (a >= 25 && a < 33) {
+                        var b = a * 267 / 100;
+                        document.getElementById("campo3").value = b.toFixed(2);
+                    } else if (a >= 33 && a < 48) {
+                        var b = a * 265 / 100;
+                        document.getElementById("campo3").value = b.toFixed(2);
+                    } else if (a >= 48 && a < 62) {
+                        var b = a * 258 / 100;
+                        document.getElementById("campo3").value = b.toFixed(2);
+                    } else if (a >= 62 && a < 81) {
+                        var b = a * 251 / 100;
+                        document.getElementById("campo3").value = b.toFixed(2);
+                    } else if (a >= 81 && a < 96) {
+                        var b = a * 248 / 100;
+                        document.getElementById("campo3").value = b.toFixed(2);
+                    } else if (a >= 96) {
+                        var b = a * 246 / 100;
+                        document.getElementById("campo3").value = b.toFixed(2);
+                    }
+            }
+    }
+}
+
+function opcao() {
+    if (document.getElementById('cmpMarge').value == '') {
+        document.getElementById("lia").style.backgroundColor = "#ffffff";
+        document.getElementById("li5").style.backgroundColor = "#ffffff";
+        document.getElementById("li6").style.backgroundColor = "#ffffff";
+        document.getElementById("li7").style.backgroundColor = "#ffffff";
+        document.getElementById("li8").style.backgroundColor = "#ffffff";
+        document.getElementById("lib").style.backgroundColor = "#ffffff";
+        document.getElementById("li9").style.backgroundColor = "#ffffff";
+        document.getElementById("li10").style.backgroundColor = "#ffffff";
+        document.getElementById("li11").style.backgroundColor = "#ffffff";
+        document.getElementById("li12").style.backgroundColor = "#ffffff";
+        document.getElementById("lic").style.backgroundColor = "#ffffff";
+        document.getElementById("li13").style.backgroundColor = "#ffffff";
+        document.getElementById("li14").style.backgroundColor = "#ffffff";
+        document.getElementById("li15").style.backgroundColor = "#ffffff";
+        document.getElementById("li16").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li17").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li18").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li19").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li20").style.backgroundColor = "rgb(80, 177, 80)";
+
+        document.getElementById("li21").style.backgroundColor = "#ffffff";
+        document.getElementById("li22").style.backgroundColor = "#ffffff";
+        document.getElementById("li23").style.backgroundColor = "#ffffff";
+        document.getElementById("li24").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li25").style.backgroundColor = "#ffffff";
+        document.getElementById("li26").style.backgroundColor = "#ffffff";
+        document.getElementById("li27").style.backgroundColor = "#ffffff";
+        document.getElementById("li28").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li29").style.backgroundColor = "#ffffff";
+        document.getElementById("li30").style.backgroundColor = "#ffffff";
+        document.getElementById("li31").style.backgroundColor = "#ffffff";
+        document.getElementById("li32").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li33").style.backgroundColor = "#ffffff";
+        document.getElementById("li34").style.backgroundColor = "#ffffff";
+        document.getElementById("li35").style.backgroundColor = "#ffffff";
+        document.getElementById("li36").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li37").style.backgroundColor = "#ffffff";
+        document.getElementById("li38").style.backgroundColor = "#ffffff";
+        document.getElementById("li39").style.backgroundColor = "#ffffff";
+        document.getElementById("li40").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li41").style.backgroundColor = "#ffffff";
+        document.getElementById("li42").style.backgroundColor = "#ffffff";
+        document.getElementById("li43").style.backgroundColor = "#ffffff";
+        document.getElementById("li44").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li45").style.backgroundColor = "#ffffff";
+        document.getElementById("li46").style.backgroundColor = "#ffffff";
+        document.getElementById("li47").style.backgroundColor = "#ffffff";
+        document.getElementById("li48").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li49").style.backgroundColor = "#ffffff";
+        document.getElementById("li50").style.backgroundColor = "#ffffff";
+        document.getElementById("li51").style.backgroundColor = "#ffffff";
+        document.getElementById("li52").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li53").style.backgroundColor = "#ffffff";
+        document.getElementById("li54").style.backgroundColor = "#ffffff";
+        document.getElementById("li55").style.backgroundColor = "#ffffff";
+        document.getElementById("li56").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li57").style.backgroundColor = "#ffffff";
+        document.getElementById("li58").style.backgroundColor = "#ffffff";
+        document.getElementById("li59").style.backgroundColor = "#ffffff";
+        document.getElementById("li60").style.backgroundColor = "#ffffff";
+        
+    }
+
+    if (document.getElementById('cmpMarge').value == 14) {
+        document.getElementById("lia").style.backgroundColor = "#24b9d6";
+        document.getElementById("li5").style.backgroundColor = "#24b9d6";
+        document.getElementById("li6").style.backgroundColor = "#24b9d6";
+        document.getElementById("li7").style.backgroundColor = "#24b9d6";
+        document.getElementById("li8").style.backgroundColor = "#24b9d6";
+        document.getElementById("lib").style.backgroundColor = "#ffffff";
+        document.getElementById("li9").style.backgroundColor = "#ffffff";
+        document.getElementById("li10").style.backgroundColor = "#ffffff";
+        document.getElementById("li11").style.backgroundColor = "#ffffff";
+        document.getElementById("li12").style.backgroundColor = "#ffffff";
+        document.getElementById("lic").style.backgroundColor = "#ffffff";
+        document.getElementById("li13").style.backgroundColor = "#ffffff";
+        document.getElementById("li14").style.backgroundColor = "#ffffff";
+        document.getElementById("li15").style.backgroundColor = "#ffffff";
+        document.getElementById("li16").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li17").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li18").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li19").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li20").style.backgroundColor = "rgb(80, 177, 80)";
+
+        document.getElementById("li21").style.backgroundColor = "#ffffff";
+        document.getElementById("li22").style.backgroundColor = "#ffffff";
+        document.getElementById("li23").style.backgroundColor = "#ffffff";
+        document.getElementById("li24").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li25").style.backgroundColor = "#ffffff";
+        document.getElementById("li26").style.backgroundColor = "#ffffff";
+        document.getElementById("li27").style.backgroundColor = "#ffffff";
+        document.getElementById("li28").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li29").style.backgroundColor = "#ffffff";
+        document.getElementById("li30").style.backgroundColor = "#ffffff";
+        document.getElementById("li31").style.backgroundColor = "#ffffff";
+        document.getElementById("li32").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li33").style.backgroundColor = "#ffffff";
+        document.getElementById("li34").style.backgroundColor = "#ffffff";
+        document.getElementById("li35").style.backgroundColor = "#ffffff";
+        document.getElementById("li36").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li37").style.backgroundColor = "#ffffff";
+        document.getElementById("li38").style.backgroundColor = "#ffffff";
+        document.getElementById("li39").style.backgroundColor = "#ffffff";
+        document.getElementById("li40").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li41").style.backgroundColor = "#ffffff";
+        document.getElementById("li42").style.backgroundColor = "#ffffff";
+        document.getElementById("li43").style.backgroundColor = "#ffffff";
+        document.getElementById("li44").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li45").style.backgroundColor = "#ffffff";
+        document.getElementById("li46").style.backgroundColor = "#ffffff";
+        document.getElementById("li47").style.backgroundColor = "#ffffff";
+        document.getElementById("li48").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li49").style.backgroundColor = "#ffffff";
+        document.getElementById("li50").style.backgroundColor = "#ffffff";
+        document.getElementById("li51").style.backgroundColor = "#ffffff";
+        document.getElementById("li52").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li53").style.backgroundColor = "#ffffff";
+        document.getElementById("li54").style.backgroundColor = "#ffffff";
+        document.getElementById("li55").style.backgroundColor = "#ffffff";
+        document.getElementById("li56").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li57").style.backgroundColor = "#ffffff";
+        document.getElementById("li58").style.backgroundColor = "#ffffff";
+        document.getElementById("li59").style.backgroundColor = "#ffffff";
+        document.getElementById("li60").style.backgroundColor = "#ffffff";
+    }
+    if (document.getElementById('cmpMarge').value == 1) {
+        document.getElementById("lia").style.backgroundColor = "#ffffff";
+        document.getElementById("li5").style.backgroundColor = "#ffffff";
+        document.getElementById("li6").style.backgroundColor = "#ffffff";
+        document.getElementById("li7").style.backgroundColor = "#ffffff";
+        document.getElementById("li8").style.backgroundColor = "#ffffff";
+        document.getElementById("lib").style.backgroundColor = "#24b9d6";
+        document.getElementById("li9").style.backgroundColor = "#24b9d6";
+        document.getElementById("li10").style.backgroundColor = "#24b9d6";
+        document.getElementById("li11").style.backgroundColor = "#24b9d6";
+        document.getElementById("li12").style.backgroundColor = "#24b9d6";
+        document.getElementById("lic").style.backgroundColor = "#ffffff";
+        document.getElementById("li13").style.backgroundColor = "#ffffff";
+        document.getElementById("li14").style.backgroundColor = "#ffffff";
+        document.getElementById("li15").style.backgroundColor = "#ffffff";
+        document.getElementById("li16").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li17").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li18").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li19").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li20").style.backgroundColor = "rgb(80, 177, 80)";
+
+        document.getElementById("li21").style.backgroundColor = "#ffffff";
+        document.getElementById("li22").style.backgroundColor = "#ffffff";
+        document.getElementById("li23").style.backgroundColor = "#ffffff";
+        document.getElementById("li24").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li25").style.backgroundColor = "#ffffff";
+        document.getElementById("li26").style.backgroundColor = "#ffffff";
+        document.getElementById("li27").style.backgroundColor = "#ffffff";
+        document.getElementById("li28").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li29").style.backgroundColor = "#ffffff";
+        document.getElementById("li30").style.backgroundColor = "#ffffff";
+        document.getElementById("li31").style.backgroundColor = "#ffffff";
+        document.getElementById("li32").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li33").style.backgroundColor = "#ffffff";
+        document.getElementById("li34").style.backgroundColor = "#ffffff";
+        document.getElementById("li35").style.backgroundColor = "#ffffff";
+        document.getElementById("li36").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li37").style.backgroundColor = "#ffffff";
+        document.getElementById("li38").style.backgroundColor = "#ffffff";
+        document.getElementById("li39").style.backgroundColor = "#ffffff";
+        document.getElementById("li40").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li41").style.backgroundColor = "#ffffff";
+        document.getElementById("li42").style.backgroundColor = "#ffffff";
+        document.getElementById("li43").style.backgroundColor = "#ffffff";
+        document.getElementById("li44").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li45").style.backgroundColor = "#ffffff";
+        document.getElementById("li46").style.backgroundColor = "#ffffff";
+        document.getElementById("li47").style.backgroundColor = "#ffffff";
+        document.getElementById("li48").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li49").style.backgroundColor = "#ffffff";
+        document.getElementById("li50").style.backgroundColor = "#ffffff";
+        document.getElementById("li51").style.backgroundColor = "#ffffff";
+        document.getElementById("li52").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li53").style.backgroundColor = "#ffffff";
+        document.getElementById("li54").style.backgroundColor = "#ffffff";
+        document.getElementById("li55").style.backgroundColor = "#ffffff";
+        document.getElementById("li56").style.backgroundColor = "#ffffff";
+        
+        document.getElementById("li57").style.backgroundColor = "#ffffff";
+        document.getElementById("li58").style.backgroundColor = "#ffffff";
+        document.getElementById("li59").style.backgroundColor = "#ffffff";
+        document.getElementById("li60").style.backgroundColor = "#ffffff";
+    }
+    if (document.getElementById('cmpMarge').value == 2) {
+        document.getElementById("lia").style.backgroundColor = "#ffffff";
+        document.getElementById("li5").style.backgroundColor = "#ffffff";
+        document.getElementById("li6").style.backgroundColor = "#ffffff";
+        document.getElementById("li7").style.backgroundColor = "#ffffff";
+        document.getElementById("li8").style.backgroundColor = "#ffffff";
+        document.getElementById("lib").style.backgroundColor = "#ffffff";
+        document.getElementById("li9").style.backgroundColor = "#ffffff";
+        document.getElementById("li10").style.backgroundColor = "#ffffff";
+        document.getElementById("li11").style.backgroundColor = "#ffffff";
+        document.getElementById("li12").style.backgroundColor = "#ffffff";
+        document.getElementById("lic").style.backgroundColor = "#24b9d6";
+        document.getElementById("li13").style.backgroundColor = "#24b9d6";
+        document.getElementById("li14").style.backgroundColor = "#24b9d6";
+        document.getElementById("li15").style.backgroundColor = "#24b9d6";
+        document.getElementById("li16").style.backgroundColor = "#24b9d6";
+        
+        document.getElementById("li17").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li18").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li19").style.backgroundColor = "rgb(80, 177, 80)";
+        document.getElementById("li20").style.backgroundColor = "rgb(80, 177, 80)";
+
+        document.getElementById("li21").style.backgroundColor = "#ffffff";
+        document.getElementById("li22").style.backgroundColor = "#ffffff";
+        document.getElementById("li23").style.backgroundColor = "#ffffff";
+        document.getElementById("li24").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li25").style.backgroundColor = "#ffffff";
+        document.getElementById("li26").style.backgroundColor = "#ffffff";
+        document.getElementById("li27").style.backgroundColor = "#ffffff";
+        document.getElementById("li28").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li29").style.backgroundColor = "#ffffff";
+        document.getElementById("li30").style.backgroundColor = "#ffffff";
+        document.getElementById("li31").style.backgroundColor = "#ffffff";
+        document.getElementById("li32").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li33").style.backgroundColor = "#ffffff";
+        document.getElementById("li34").style.backgroundColor = "#ffffff";
+        document.getElementById("li35").style.backgroundColor = "#ffffff";
+        document.getElementById("li36").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li37").style.backgroundColor = "#ffffff";
+        document.getElementById("li38").style.backgroundColor = "#ffffff";
+        document.getElementById("li39").style.backgroundColor = "#ffffff";
+        document.getElementById("li40").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li41").style.backgroundColor = "#ffffff";
+        document.getElementById("li42").style.backgroundColor = "#ffffff";
+        document.getElementById("li43").style.backgroundColor = "#ffffff";
+        document.getElementById("li44").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li45").style.backgroundColor = "#ffffff";
+        document.getElementById("li46").style.backgroundColor = "#ffffff";
+        document.getElementById("li47").style.backgroundColor = "#ffffff";
+        document.getElementById("li48").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li49").style.backgroundColor = "#ffffff";
+        document.getElementById("li50").style.backgroundColor = "#ffffff";
+        document.getElementById("li51").style.backgroundColor = "#ffffff";
+        document.getElementById("li52").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li53").style.backgroundColor = "#ffffff";
+        document.getElementById("li54").style.backgroundColor = "#ffffff";
+        document.getElementById("li55").style.backgroundColor = "#ffffff";
+        document.getElementById("li56").style.backgroundColor = "#ffffff";
+
+        document.getElementById("li57").style.backgroundColor = "#ffffff";
+        document.getElementById("li58").style.backgroundColor = "#ffffff";
+        document.getElementById("li59").style.backgroundColor = "#ffffff";
+        document.getElementById("li60").style.backgroundColor = "#ffffff";
+    }
+
+}
