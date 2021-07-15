@@ -33,6 +33,10 @@ button{
     border-radius: 30px;
 }
 
+button:hover{
+    background-color: rgba(211, 216, 216, 0.925);
+}
+
 fieldset{
     font-weight: bold;
 }
